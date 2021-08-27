@@ -1,0 +1,26 @@
+//abstracts
+@import "abstracts/variables";
+@import "abstracts/mixins";
+@import "abstracts/animation";
+@import "abstracts/spinner_loader";
+
+//vendors
+@import "vendors/bootstrap";
+@import "vendors/slick";
+@import "vendors/font-awesome";
+
+//base
+@import "base/fonts";
+@import "base/reset";
+@import "base/typography";
+
+//components
+@import "components/button";
+@import "components/circle-line-shape";
+
+//layout
+@import "layout/navigation";
+@import "layout/footer";
+
+//pages
+@import "pages/home";
